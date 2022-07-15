@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Run Android Hermes - Experimental",
+            "request": "launch",
+            "type": "reactnativedirect",
+            "cwd": "${workspaceFolder}",
+            "enableDebug": false,
+            "platform": "android"
+        }
+    ]
+}
